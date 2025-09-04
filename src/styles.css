@@ -1,0 +1,97 @@
+body {
+  background-color: #1c1c1c;
+  color: #f8f1c1;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  width: 300px;
+}
+
+h5 {
+  color: #ffd60a;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.list-group-item {
+  background-color: #2a2a2a;
+  border: none;
+  color: #f8f1c1;
+  border-radius: 8px;
+  margin-bottom: 6px;
+}
+
+.list-group-item:hover {
+  background-color: #343434;
+}
+
+.task-text {
+  word-break: break-word;
+  white-space: normal;
+  flex: 1;
+}
+
+.form-check-input {
+  accent-color: #ffd60a;
+}
+
+#addTask {
+  background-color: #ffd60a;
+  border: none;
+  color: #1c1c1c;
+  font-weight: bold;
+  transition: 0.2s;
+}
+
+#addTask:hover {
+  background-color: #ffea00;
+}
+
+.btn-delete {
+  color: #ff6b6b;
+  background: transparent;
+  border: none;
+}
+
+.btn-delete:hover {
+  color: #ff3b3b;
+}
+
+#newTask {
+  background-color: #2a2a2a;
+  border: 1px solid #444;
+  color: #f8f1c1;
+}
+
+#newTask::placeholder {
+  color: #aaa;
+}
+
+.sortable-ghost {
+  opacity: 0.6;
+  background-color: #444;
+}
+
+.btn-edit {
+  color: #4dabf7;
+  background: transparent;
+  border: none;
+}
+
+.btn-edit:hover {
+  color: #1c7ed6;
+}
+
+.info-btn {
+  background: transparent;
+  border: none;
+}
+
+.info-btn i {
+  color: #ffd60a;
+  font-size: 1.2rem;
+  transition: color 0.2s ease;
+}
+
+.info-btn i:hover {
+  color: #ffea00;
+}

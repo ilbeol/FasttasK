@@ -1,0 +1,17 @@
+{
+  "extName": {
+    "message": "FasttasK"
+  },
+  "extDescription": {
+    "message": "Lista rápida de pendientes"
+  },
+  "titleTasks": {
+    "message": "Pendientes"
+  },
+  "placeholderNew": {
+    "message": "Nuevo pendiente..."
+  },
+  "buttonAdd": {
+    "message": "Agregar"
+  }
+}

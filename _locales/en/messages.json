@@ -1,0 +1,17 @@
+{
+  "extName": {
+    "message": "FasttasK"
+  },
+  "extDescription": {
+    "message": "Fast local checklist task"
+  },
+  "titleTasks": {
+    "message": "Tasks"
+  },
+  "placeholderNew": {
+    "message": "New task..."
+  },
+  "buttonAdd": {
+    "message": "Add"
+  }
+}
